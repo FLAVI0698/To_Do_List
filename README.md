@@ -16,7 +16,7 @@ This a simple To-Do List application build with react. It allow you to add.
 <img src="./src/assets/layout_img/start.png">
 
 ### Adding items to the list
-<img src="./src/assets/layout_img/Add_item.png">
+<img src="./src/assets/layout_img/Add_Item_on_list.png">
 
 
 ## Currently, two official plugins are available:
