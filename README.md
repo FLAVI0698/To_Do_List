@@ -13,7 +13,7 @@ This a simple To-Do List application build with react. It allow you to add.
 - CSS.
 
 ## Project started
-![](./src/assets/layout_img/start.png)
+<img src="./src/assets/layout_img/start.png"/>
 
 ### Adding items to the list
 ![](./src/assets/layout_img/add-item.png)
